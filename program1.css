@@ -1,0 +1,131 @@
+
+.mainhead {
+	font-family: "Century Gothic", Futura, Verdana, sans-serif;
+	text-align: center;
+	color: #A4A400;
+	background-color: #F0F0F0;
+	letter-spacing: 3px;
+}
+.otherhead {
+	text-align: left;
+	font-weight: bold;
+	font-size: 20px;
+}
+.caption {
+	display: table-caption;
+	font-family: "Century Gothic", Futura, Verdana, sans-serif;
+	text-align: center;
+	color: #A4A400;
+	background-color: #F0F0F0; 
+	font-weight: bold;
+}
+th {
+	background-color: #CC9933;
+	padding: 5px;
+	border: 2px solid #F0F0F0;
+	color: #FFFFFF;
+}
+body {
+	background-color: #FFCC00;
+	font-family: "Georgia", Garamond, serif-font;
+}
+.bold {
+	font-weight: bold;
+}
+.italics {
+	font-style: italic;
+}
+#table1 {
+	width: 60%;
+	text-align: center;
+	border-collapse: collapse;
+}
+#table2 {
+	width: 38%;
+	text-align: center;
+	border-collapse: collapse;
+}
+th {
+	text-align: center;
+	color: #FFFFFF;
+	background-color: #003366;
+}
+td {
+	border: 2px solid #F0F0F0;
+	text-align: left;
+	color: #FFFFFF;
+	background-color: #CC9933;	
+}
+.nav {
+	border-collapse: collapse;
+	padding: 5px;
+	border: 2px solid #F0F0F0;
+	color: #FFFFFF;
+}
+.navth {
+	border-color: #CC9933; 
+	padding-left: 20px;
+	padding-right: 20px;
+	margin-right: 20px;
+	background-color: #A4A400;
+}
+.navtd {
+	border-color: #003366; 
+	color: #003366;
+}
+/* Dessert */
+#tart {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}
+#table3 {
+	width: 55%;
+	text-align: right;
+	border-collapse: collapse;
+	margin-left: 20%;
+	margin-right: auto;
+	}
+.center {
+	text-align: center;
+	list-style-position: inside;
+}
+.border {
+	border: 3px dashed #003366;
+}
+#resize {
+	max-width: 20%;
+	height: auto;
+	left: 0px;
+	right: 0px;
+}
+.image {
+	width: 100%;
+	height: auto;
+	left: 0px;
+	right: 0px;
+}
+#lemons {
+	float: left;
+	margin-left: 5%;
+}
+#avocado {
+	float: right;
+	margin-right: 5%;
+}
+/* homepage */
+#table4 {
+	width: 40%;
+	text-align: center;
+	border-collapse: collapse;
+	margin-left: auto;
+	margin-right: auto;
+	padding-right: 25px;
+	padding-left: 25px;
+	text-align: rightwards;
+	font-size: 20px;
+	}
+.td4 {
+	border-color: #CC9933;
+}

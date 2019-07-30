@@ -1,4 +1,4 @@
-# webprogramming
+# recipe website 
 by: Nidhi Parmar
 
 This repository is dedicated to a project/website I worked on which consists of a homepage, 
